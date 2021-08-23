@@ -28,7 +28,7 @@ Contact: xueyi.shen@ed.ac.uk
 ### Function preparation
 
   - Download the R function from
-    [here](https://github.com/psychiatric-genomics-consortium/mdd-mwas/methylationPCs/residualise_mvalue.R)
+    [here](https://github.com/psychiatric-genomics-consortium/mdd-mwas/methylation%20PCs/residualise_mvalue.R)
 
 -----
 
